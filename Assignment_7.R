@@ -24,5 +24,12 @@ titanic
       boxplot(titanic$Age ~ titanic$Survived, col=colours[c(2,6)])
 
 #q3 histogram for fare with table showing those who didn't pay
-  
+  hist(titanic$Fare)
 
+#q4 family size per ticket class
+
+#q5 Stacked barcharts
+
+#q6 Violin
+  
+  
